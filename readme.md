@@ -1,1 +1,1 @@
-emmmm,
+emmmm,仅仅只有验证和ping防掉线
